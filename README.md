@@ -1,16 +1,24 @@
-I was bitten by the computer/programming bug at age 12 when my dad bought our first computer, a Commodore 64. I spent many hours experimenting with BASIC and created my first animation application.
+<h1 align="center">Hi 👋, I'm Wessel</h1>
+<h3 align="center">Blossoming 53-Year-Old Newbie Software Developer</h3>
 
-How about "Unfortunately, despite my passion for coding, the early 1980s didn't offer many prospects in programming. Instead, I studied and pursued a career in desktop publishing and spent over two decades in the industry. However, in 2015, the decline of print media led to the closure of my employer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aso-repos&label=Profile%20views&color=0e75b6&style=flat" alt="aso-repos" /> </p>
 
-I could never stay far away from the IT side of things, though.  I constantly explored new technologies, built computers from spare parts in my free time, and delved "under the hood" of software applications.
+- 🔭 I’m currently working on **Personal Database**
 
-I refocused on programming in 2014 when I got my certification in HTML5 and CSS3. Since then, I have focused on web development, mainly working on CMS systems like Joomla! and WordPress.
+- 🌱 I’m currently learning **Django & JavaScript**
 
-But the allure of programming remained steadfast, though. In 2023, I completed two Python Specialization courses through the University of Michigan and obtained certification in PySide6, enabling me to develop graphical interfaces for desktop applications. As a result, I created and compiled my first Windows text editor, which I am currently using to write this introduction.
+- 👨‍💻 All of my projects are available at [https://github.com/aso-repos/Projects](https://github.com/aso-repos/Projects)
 
-Although I had a brief introduction to topics such as SQL databases, data structures, web data accessing & processing, and Python libraries like PIL and OpenCV, I realize that my coding journey has only just begun.
+- 💬 Ask me about **Python & PySide (Qt Framework)**
 
-Currently, I'm enrolled in a Django Specialization Course at the University of Michigan. This course not only provides me with a fresh perspective on web development but also exposes me to popular languages like Javascript while refining my HTML/CSS and SQL skills.
+- 📄 Learn more about me [https://www.linkedin.com/in/wessel-wessels-9113191a/](https://www.linkedin.com/in/wessel-wessels-9113191a/)
 
-By continuously creating new applications to apply my newly acquired knowledge, I also gain practical experience. I also remain focused on determining which programming language or technology to master next. Although I entered the field later in life, at over 50, my commitment to becoming the best developer possible remains unwavering. I firmly believe that the diverse knowledge gained from my years in various related fields will greatly contribute to achieving my goals.
+- ⚡ Fun fact **Wrote my first BASIC program in 1982 on a Commodore 64**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wessel-wessels-9113191a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wessel-wessels-9113191a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
