@@ -1,3 +1,4 @@
+![Header Image](https://headedforspace.com/wp-content/uploads/2024/04/Heading.jpg)
 <h1 align="center">Hi, I'm Wessel</h1>
 <h3 align="center">Blossoming 53-Year-Old Newbie Software Developer</h3>
 
