@@ -13,10 +13,10 @@
 
 ### 🧭 About Me
 
-- 🔭 Currently building: **JavaFX Calculator** & other desktop apps
-- 🌱 Currently learning: **JavaFX**, **PostgreSQL**, and **GitHub workflows**
-- 👨‍💻 Previously worked in: **Python, Django, PySide (Qt)**
-- 💬 Ask me about: **Java desktop apps, PySide, clean GitHub project setups**
+- 🔭 Currently building: **JavaFX Calculator** & other desktop apps  
+- 🌱 Currently learning: **JavaFX**, **PostgreSQL**, and **GitHub workflows**  
+- 👨‍💻 Previously worked in: **Python, Django, PySide (Qt)**  
+- 💬 Ask me about: **Java desktop apps, PySide, clean GitHub project setups**  
 - 🧠 Fun fact: Wrote my first BASIC program on a **Commodore 64 in 1982**
 
 ---
@@ -48,38 +48,38 @@
 
 ### 🎓 Certifications & Learning Milestones
 
-- **Web Design Certificate** — University of Cape Town (2014)  
+- 🎨 **Web Design Certificate** — University of Cape Town (2014)  
   *HTML5, CSS3, Principles and Application of Web Design*
 
-- **Internet History, Technology, and Security** — University of Michigan (Mar–Apr 2023)  
+- 🌐 **Internet History, Technology, and Security** — University of Michigan (Mar–Apr 2023)  
   *Computing & Internet history, online security foundations*
 
-- **Python for Everybody Specialization** — University of Michigan (Apr–Aug 2023)  
+- 📘 **Python for Everybody Specialization** — University of Michigan (Apr–Aug 2023)  
   - Programming for Everybody (Python Basics)  
   - Python Data Structures  
   - Using Python to Access Web Data  
   - Using Databases with Python
 
-- **Python 3 Programming Specialization** — University of Michigan (Aug 2023 – Jan 2024)  
+- 📘 **Python 3 Programming Specialization** — University of Michigan (Aug 2023 – Jan 2024)  
   - Python Basics  
   - Python Functions, Files, and Dictionaries  
   - Data Collection and Processing with Python  
   - Python Classes and Inheritance  
   - Python Project: Software Engineering and Image Manipulation
 
-- **Qt for Python (PySide6) GUI for Beginners: The Fundamentals** — Udemy (Feb–Mar 2024)  
+- 📘 **Qt for Python (PySide6) GUI for Beginners** — Udemy (Feb–Mar 2024)  
   *Desktop GUI development using PySide6 and Qt concepts*
 
-- **Django for Everybody Specialization** — University of Michigan (Mar–Jun 2024)  
+- 🌐 **Django for Everybody Specialization** — University of Michigan (Mar–Jun 2024)  
   - Web Application Technologies and Django  
   - Building Web Applications in Django  
   - Django Features and Libraries  
   - Using JavaScript and JSON in Django
 
-- **The Complete Java Development Bootcamp** — Udemy (Jun–Oct 2024)  
+- 🧱 **The Complete Java Development Bootcamp** — Udemy (Jun–Oct 2024)  
   *Core Java fundamentals and practical project development*
 
-- **Object-Oriented Programming in Java Specialization** — Duke University & UC San Diego (Sep 2024 – May 2025)  
+- 🖥️ **Object-Oriented Programming in Java Specialization** — Duke University & UC San Diego (Sep 2024 – May 2025)  
   - Java Programming: Solving Problems with Software (Duke)  
   - Java Programming: Arrays, Lists, and Structured Data (Duke)  
   - Object Oriented Programming in Java (UC San Diego)  
@@ -89,5 +89,12 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/wessel-wessels-9113191a/) — for certificates, history, and work background
+- [LinkedIn Profile](https://www.linkedin.com/in/wessel-wessels-9113191a/) — for full work and certification history
 
+---
+
+### ⚡ GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aso-repos&show_icons=true&theme=default" alt="aso-repos GitHub Stats" />
+</p>
