@@ -91,6 +91,3 @@
 
 - [LinkedIn Profile](https://www.linkedin.com/in/wessel-wessels-9113191a/) — for certificates, history, and work background
 
----
-
-Let me know once it's up and visible — or if you want to tweak any wording.
