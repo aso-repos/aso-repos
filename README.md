@@ -98,6 +98,11 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aso-repos&show_icons=true&theme=default" alt="aso-repos GitHub Stats" />
 </p>
-## 📊 GitHub Activity Graph
 
-![Wessel's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aso-repos&theme=github-compact)
+## 📊 Contribution Activity
+
+Curious about those green squares?  
+Check out my [**full GitHub contribution graph here →**](https://github.com/users/aso-repos/contributions)
+
+![Contribution Graph Example](https://skillicons.dev/icons?i=github)
+
